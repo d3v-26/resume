@@ -22,6 +22,7 @@ A simple webpage for displaying PDF file using `<iframe>`, with features to disa
 ### Display PDF using `<iframe>`
 
 1. Open `index.html` in a web browser.
+2. In case of an update just commit the latest resume.
 ---
 
 Feel free to customize further!
